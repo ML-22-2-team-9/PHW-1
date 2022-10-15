@@ -1,6 +1,6 @@
 ## [ML22-2] PHW-1
 
-### description
+# description
 
 ## data
 Breast Cancer Wisconsin data set.
@@ -8,8 +8,8 @@ Breast Cancer Wisconsin data set.
 ## objective setting
 predict the one who has the malignant cancer, so, it’s helpful to the doctor who diagnose by giving judgment indicators.
 
-## function detail
-# everything is contained in ginat funciton.
+# function detail
+## everything is contained in ginat funciton.
 # test score()
 return the score of the model.
 
