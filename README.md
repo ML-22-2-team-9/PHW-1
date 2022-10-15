@@ -35,6 +35,6 @@ process hyperparameter tunning for the logistic regression model by GridSearchCV
 process hyperparameter tunning for the SVM by RandomizedSearchCV()
 
 # Contribution
-마승희 33%\n
-서유리 33%\n
+마승희 33%
+서유리 33%
 강성연 33%
